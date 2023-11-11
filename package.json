@@ -1,0 +1,21 @@
+{
+  "name": "trabalho03final_07-12",
+  "version": "1.0.0",
+  "description": "Projeto do site de gerenciamento de tarefas - Trabalho avaliativo de Programação Web II, 2023",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "terraleonardo",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "mongoose": "^8.0.0",
+    "nodemon": "^3.0.1",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0",
+    "passport-local-mongoose": "^8.0.0"
+  }
+}
